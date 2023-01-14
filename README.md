@@ -7,7 +7,7 @@ Step 1
  on your linux server Install Docker 
 1.	Set up docker repository
 
-$ sudo yum install -y yum-utils
+`$ sudo yum install -y yum-utils`
 
 
 
