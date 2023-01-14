@@ -76,19 +76,19 @@ We will run the mongo-express image with some required environment variables as 
 
 ## Run docker logs mongo-express to view if our mongo-express ui is working properly
 `$docker logs mongo-express`
-# you should see this output
-Screenshot 2023-01-14 at 12.44.54 AM<img width="744" alt="image" src="https://user-images.githubusercontent.com/113036991/212443268-fcae0acc-a22c-42bf-8f00-2e9a3a620eab.png">
+## you should see this output
+<img width="744" alt="image" src="https://user-images.githubusercontent.com/113036991/212443268-fcae0acc-a22c-42bf-8f00-2e9a3a620eab.png">
 
-# Navigate to your browser http://publicip:8085
-Screenshot 2023-01-14 at 12.48.48 AM<img width="932" alt="image" src="https://user-images.githubusercontent.com/113036991/212443313-3fc2bff2-c08b-4a4e-8e2b-4c0035f9a8b0.png">
+## Navigate to your browser http://publicip:8085
+<img width="932" alt="image" src="https://user-images.githubusercontent.com/113036991/212443313-3fc2bff2-c08b-4a4e-8e2b-4c0035f9a8b0.png">
 
-# You will see this mongo-express dashboard with databases created by default.
+## You will see this mongo-express dashboard with databases created by default.
 
-# Create a new database user-account
-Screenshot 2023-01-14 at 1.20.23 AM<img width="322" alt="image" src="https://user-images.githubusercontent.com/113036991/212443354-03132b29-7095-4d4f-959a-584d78083316.png">
-Screenshot 2023-01-14 at 1.22.44 AM<img width="383" alt="image" src="https://user-images.githubusercontent.com/113036991/212443361-cfb30942-133f-4c36-9170-be77e616ab09.png">
+## Create a new database user-account
+<img width="322" alt="image" src="https://user-images.githubusercontent.com/113036991/212443354-03132b29-7095-4d4f-959a-584d78083316.png">
+<img width="383" alt="image" src="https://user-images.githubusercontent.com/113036991/212443361-cfb30942-133f-4c36-9170-be77e616ab09.png">
 
-# ....to be continued
+## ....to be continued
 
 
 
